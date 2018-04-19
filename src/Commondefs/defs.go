@@ -7,6 +7,13 @@ const (
 	USER_RESP
 )
 
+type UserJob struct {
+	// User Information Needed for Job
+	UserName string
+	// Need what test that user have selected
+	// example : L2 - True, L3-False,BasicSanity-True
+	TestCases map[string]struct{}
+}
 type Resource struct {
 }
 type UserInfo struct {

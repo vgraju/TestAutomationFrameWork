@@ -22,6 +22,7 @@ func CreateIngressInput(inputCh chan interface{}) (chan interface{}, error) {
 	go func() {
 		fmt.Println("Go Routine : CreateIngressInput")
 		for val := range inputCh {
+			fmt.Println("data on CreateIngressInput")
 			// Business Logic Here
 			// Post the data onto left channel
 			leftCh <- val
@@ -34,6 +35,7 @@ func CreateUserMgmt(inputCh chan interface{}) (chan interface{}, error) {
 	go func() {
 		fmt.Println("Go Routine : CreateUserMgmt")
 		for val := range inputCh {
+			fmt.Println("data on CreateUserInput")
 			// Check whether the data is PASSTHROUGH
 			// based on response. If this data is for my block
 			// in Pipeline, then we will modify the data
@@ -55,6 +57,7 @@ func CreateRequestRateLimiter(inputCh chan interface{}) (chan interface{}, error
 	go func() {
 		fmt.Println("Go Routine : CreateRequestRateLimiter")
 		for val := range inputCh {
+			fmt.Println("data on CreateRequestRateLimiter")
 			// Business Logic Here
 			// Post the data onto left channel
 			leftCh <- val
@@ -67,14 +70,24 @@ func CreateResoureManager(inputCh chan interface{}) (chan interface{}, error) {
 	go func() {
 		fmt.Println("Go Routine : CreateResoureManager")
 		for val := range inputCh {
+			fmt.Println("data on CreateResourceManager")
 			// Business Logic Here
 			// Post the data onto left channel
+			ProcessResourceMgmt(val)
 			leftCh <- val
 		}
 	}()
 	return leftCh, nil
 }
 
+func ProcessResourceMgmt(data interface{}) (interface{}, Commondefs.GORESP) {
+	fmt.Println("Processing Resource Management")
+	// Add Switch / Remove Switch
+	// Keep a Global Slice of Resources and Remove the required
+	// Number of resource from this slice and
+
+	return data, Commondefs.PASSTHROUGH_RESP
+}
 func ProcessUserMgmt(data interface{}) (interface{}, Commondefs.GORESP) {
 
 	switch data.(type) {
