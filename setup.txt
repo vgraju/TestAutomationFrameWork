@@ -1,0 +1,10 @@
+#NAME IS MUST: Don't Change any text in this file. Fill the data down
+# Lines starting with # are ommited for data
+#DUTA - Fill the IP Address, if console, then console. We can 
+# ommit any , if u don't have information etc
+#EXAMPLE IPADDR:192.168.12.12, CONSOLE:100.100.100.10 -p 3040, NAME#DUTA
+#PORTS - always given with DUTAB etc fpPort1 To fpPort2 or 
+#fpPort1, fpPort3 To fpPort3,fpPort4 etc
+NAME:DUTA,IPADDR:192.168.100.112
+NAME:DUTB,IPADDR:192.168.100.117
+NAME:DUTAB,PORTS:fpPort1-fpPort3 To fpPort1-fpPort3,SPEED#40000

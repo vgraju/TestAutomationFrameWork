@@ -48,8 +48,8 @@ func DecodeReceivedData(data interface{}) {
 		fmt.Println("Request Recevied")
 	case *Commondefs.LoginResponse:
 		fmt.Println("Login Reponse Recevied")
-	case *Commondefs.RequirementResponse:
-		fmt.Println("RequirementResponse Recevied")
+	case *Commondefs.HttpUserResponse:
+		fmt.Println("Login Response Recevied")
 	default:
 		fmt.Println("UNDEFINED RESPONSE RECEIVED:")
 	}

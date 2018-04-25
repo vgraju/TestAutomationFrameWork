@@ -1,0 +1,812 @@
+loggersshclient.go:73: vlan 80
+loggersshclient.go:73: vlan 81
+loggersshclient.go:73: vlan 82
+loggersshclient.go:73: vlan 83
+loggersshclient.go:73: vlan 84
+loggersshclient.go:73: vlan 85
+loggersshclient.go:73: vlan 86
+loggersshclient.go:73: vlan 87
+loggersshclient.go:73: vlan 88
+loggersshclient.go:73: vlan 89
+loggersshclient.go:73: vlan 90
+loggersshclient.go:73: vlan 91
+loggersshclient.go:73: vlan 92
+loggersshclient.go:73: vlan 93
+loggersshclient.go:73: vlan 94
+loggersshclient.go:73: vlan 95
+loggersshclient.go:73: vlan 96
+loggersshclient.go:73: vlan 97
+loggersshclient.go:73: vlan 98
+loggersshclient.go:73: vlan 99
+loggersshclient.go:73: vlan 100
+loggersshclient.go:73: vlan 101
+loggersshclient.go:73: vlan 102
+loggersshclient.go:73: vlan 103
+loggersshclient.go:73: vlan 104
+loggersshclient.go:73: vlan 105
+loggersshclient.go:73: vlan 106
+loggersshclient.go:73: vlan 107
+loggersshclient.go:73: vlan 108
+loggersshclient.go:73: vlan 109
+loggersshclient.go:73: vlan 110
+loggersshclient.go:73: vlan 111
+loggersshclient.go:73: vlan 112
+loggersshclient.go:73: vlan 113
+loggersshclient.go:73: vlan 114
+loggersshclient.go:73: vlan 115
+loggersshclient.go:73: vlan 116
+loggersshclient.go:73: vlan 117
+loggersshclient.go:73: vlan 118
+loggersshclient.go:73: vlan 119
+loggersshclient.go:73: vlan 120
+loggersshclient.go:73: vlan 121
+loggersshclient.go:73: vlan 122
+loggersshclient.go:73: vlan 123
+loggersshclient.go:73: vlan 124
+loggersshclient.go:73: vlan 125
+loggersshclient.go:73: vlan 126
+loggersshclient.go:73: vlan 127
+loggersshclient.go:73: vlan 128
+loggersshclient.go:73: vlan 129
+loggersshclient.go:73: vlan 130
+loggersshclient.go:73: vlan 131
+loggersshclient.go:73: vlan 132
+loggersshclient.go:73: vlan 133
+loggersshclient.go:73: vlan 134
+loggersshclient.go:73: vlan 135
+loggersshclient.go:73: vlan 136
+loggersshclient.go:73: vlan 137
+loggersshclient.go:73: vlan 138
+loggersshclient.go:73: vlan 139
+loggersshclient.go:73: vlan 140
+loggersshclient.go:73: vlan 141
+loggersshclient.go:73: vlan 142
+loggersshclient.go:73: vlan 143
+loggersshclient.go:73: vlan 144
+loggersshclient.go:73: vlan 145
+loggersshclient.go:73: vlan 146
+loggersshclient.go:73: vlan 147
+loggersshclient.go:73: vlan 148
+loggersshclient.go:73: vlan 149
+loggersshclient.go:73: vlan 150
+loggersshclient.go:73: vlan 151
+loggersshclient.go:73: vlan 152
+loggersshclient.go:73: vlan 153
+loggersshclient.go:73: vlan 154
+loggersshclient.go:73: vlan 155
+loggersshclient.go:73: vlan 156
+loggersshclient.go:73: vlan 157
+loggersshclient.go:73: vlan 158
+loggersshclient.go:73: vlan 159
+loggersshclient.go:73: vlan 160
+loggersshclient.go:73: vlan 161
+loggersshclient.go:73: vlan 162
+loggersshclient.go:73: vlan 163
+loggersshclient.go:73: vlan 164
+loggersshclient.go:73: vlan 165
+loggersshclient.go:73: vlan 166
+loggersshclient.go:73: vlan 167
+loggersshclient.go:73: vlan 168
+loggersshclient.go:73: vlan 169
+loggersshclient.go:73: vlan 170
+loggersshclient.go:73: vlan 171
+loggersshclient.go:73: vlan 172
+loggersshclient.go:73: vlan 173
+loggersshclient.go:73: vlan 174
+loggersshclient.go:73: vlan 175
+loggersshclient.go:73: vlan 176
+loggersshclient.go:73: vlan 177
+loggersshclient.go:73: vlan 178
+loggersshclient.go:73: vlan 179
+loggersshclient.go:73: vlan 180
+loggersshclient.go:73: vlan 181
+loggersshclient.go:73: vlan 182
+loggersshclient.go:73: vlan 183
+loggersshclient.go:73: vlan 184
+loggersshclient.go:73: vlan 185
+loggersshclient.go:73: vlan 186
+loggersshclient.go:73: vlan 187
+loggersshclient.go:73: vlan 188
+loggersshclient.go:73: vlan 189
+loggersshclient.go:73: vlan 190
+loggersshclient.go:73: vlan 191
+loggersshclient.go:73: vlan 192
+loggersshclient.go:73: vlan 193
+loggersshclient.go:73: vlan 194
+loggersshclient.go:73: vlan 195
+loggersshclient.go:73: vlan 196
+loggersshclient.go:73: vlan 197
+loggersshclient.go:73: vlan 198
+loggersshclient.go:73: vlan 199
+loggersshclient.go:73: no vlan 80
+loggersshclient.go:73: no vlan 81
+loggersshclient.go:73: no vlan 82
+loggersshclient.go:73: no vlan 83
+loggersshclient.go:73: no vlan 84
+loggersshclient.go:73: no vlan 85
+loggersshclient.go:73: no vlan 86
+loggersshclient.go:73: no vlan 87
+loggersshclient.go:73: no vlan 88
+loggersshclient.go:73: no vlan 89
+loggersshclient.go:73: no vlan 90
+loggersshclient.go:73: no vlan 91
+loggersshclient.go:73: no vlan 92
+loggersshclient.go:73: no vlan 93
+loggersshclient.go:73: no vlan 94
+loggersshclient.go:73: no vlan 95
+loggersshclient.go:73: no vlan 96
+loggersshclient.go:73: no vlan 97
+loggersshclient.go:73: no vlan 98
+loggersshclient.go:73: no vlan 99
+loggersshclient.go:73: no vlan 100
+loggersshclient.go:73: no vlan 101
+loggersshclient.go:73: no vlan 102
+loggersshclient.go:73: no vlan 103
+loggersshclient.go:73: no vlan 104
+loggersshclient.go:73: no vlan 105
+loggersshclient.go:73: no vlan 106
+loggersshclient.go:73: no vlan 107
+loggersshclient.go:73: no vlan 108
+loggersshclient.go:73: no vlan 109
+loggersshclient.go:73: no vlan 110
+loggersshclient.go:73: no vlan 111
+loggersshclient.go:73: no vlan 112
+loggersshclient.go:73: no vlan 113
+loggersshclient.go:73: no vlan 114
+loggersshclient.go:73: no vlan 115
+loggersshclient.go:73: no vlan 116
+loggersshclient.go:73: no vlan 117
+loggersshclient.go:73: no vlan 118
+loggersshclient.go:73: no vlan 119
+loggersshclient.go:73: no vlan 120
+loggersshclient.go:73: no vlan 121
+loggersshclient.go:73: no vlan 122
+loggersshclient.go:73: no vlan 123
+loggersshclient.go:73: no vlan 124
+loggersshclient.go:73: no vlan 125
+loggersshclient.go:73: no vlan 126
+loggersshclient.go:73: no vlan 127
+loggersshclient.go:73: no vlan 128
+loggersshclient.go:73: no vlan 129
+loggersshclient.go:73: no vlan 130
+loggersshclient.go:73: no vlan 131
+loggersshclient.go:73: no vlan 132
+loggersshclient.go:73: no vlan 133
+loggersshclient.go:73: no vlan 134
+loggersshclient.go:73: no vlan 135
+loggersshclient.go:73: no vlan 136
+loggersshclient.go:73: no vlan 137
+loggersshclient.go:73: no vlan 138
+loggersshclient.go:73: no vlan 139
+loggersshclient.go:73: no vlan 140
+loggersshclient.go:73: no vlan 141
+loggersshclient.go:73: no vlan 142
+loggersshclient.go:73: no vlan 143
+loggersshclient.go:73: no vlan 144
+loggersshclient.go:73: no vlan 145
+loggersshclient.go:73: no vlan 146
+loggersshclient.go:73: no vlan 147
+loggersshclient.go:73: no vlan 148
+loggersshclient.go:73: no vlan 149
+loggersshclient.go:73: no vlan 150
+loggersshclient.go:73: no vlan 151
+loggersshclient.go:73: no vlan 152
+loggersshclient.go:73: no vlan 153
+loggersshclient.go:73: no vlan 154
+loggersshclient.go:73: no vlan 155
+loggersshclient.go:73: no vlan 156
+loggersshclient.go:73: no vlan 157
+loggersshclient.go:73: no vlan 158
+loggersshclient.go:73: no vlan 159
+loggersshclient.go:73: no vlan 160
+loggersshclient.go:73: no vlan 161
+loggersshclient.go:73: no vlan 162
+loggersshclient.go:73: no vlan 163
+loggersshclient.go:73: no vlan 164
+loggersshclient.go:73: no vlan 165
+loggersshclient.go:73: no vlan 166
+loggersshclient.go:73: no vlan 167
+loggersshclient.go:73: no vlan 168
+loggersshclient.go:73: no vlan 169
+loggersshclient.go:73: no vlan 170
+loggersshclient.go:73: no vlan 171
+loggersshclient.go:73: no vlan 172
+loggersshclient.go:73: no vlan 173
+loggersshclient.go:73: no vlan 174
+loggersshclient.go:73: no vlan 175
+loggersshclient.go:73: no vlan 176
+loggersshclient.go:73: no vlan 177
+loggersshclient.go:73: no vlan 178
+loggersshclient.go:73: no vlan 179
+loggersshclient.go:73: no vlan 180
+loggersshclient.go:73: no vlan 181
+loggersshclient.go:73: no vlan 182
+loggersshclient.go:73: no vlan 183
+loggersshclient.go:73: no vlan 184
+loggersshclient.go:73: no vlan 185
+loggersshclient.go:73: no vlan 186
+loggersshclient.go:73: no vlan 187
+loggersshclient.go:73: no vlan 188
+loggersshclient.go:73: no vlan 189
+loggersshclient.go:73: no vlan 190
+loggersshclient.go:73: no vlan 191
+loggersshclient.go:73: no vlan 192
+loggersshclient.go:73: no vlan 193
+loggersshclient.go:73: no vlan 194
+loggersshclient.go:73: no vlan 195
+loggersshclient.go:73: no vlan 196
+loggersshclient.go:73: no vlan 197
+loggersshclient.go:73: no vlan 198
+loggersshclient.go:73: no vlan 199
+loggersshclient.go:73: no vlan 80
+loggersshclient.go:76: no vlan 80
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 80
+loggersshclient.go:73: no vlan 81
+loggersshclient.go:76: no vlan 81
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 81
+loggersshclient.go:73: no vlan 82
+loggersshclient.go:76: no vlan 82
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 82
+loggersshclient.go:73: no vlan 83
+loggersshclient.go:76: no vlan 83
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 83
+loggersshclient.go:73: no vlan 84
+loggersshclient.go:76: no vlan 84
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 84
+loggersshclient.go:73: no vlan 85
+loggersshclient.go:76: no vlan 85
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 8
+loggersshclient.go:73: no vlan 86
+loggersshclient.go:76: 5
+no vlan 86
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 8
+loggersshclient.go:73: no vlan 87
+loggersshclient.go:76: 6
+no vlan 87
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 8
+loggersshclient.go:73: no vlan 88
+loggersshclient.go:76: 7
+no vlan 88
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 88
+loggersshclient.go:73: no vlan 89
+loggersshclient.go:76: no vlan 89
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vl
+loggersshclient.go:73: no vlan 90
+loggersshclient.go:76: an 89
+no vlan 90
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 90
+loggersshclient.go:73: no vlan 91
+loggersshclient.go:76: no vlan 91
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 9
+loggersshclient.go:73: no vlan 92
+loggersshclient.go:76: 1
+no vlan 92
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 9
+loggersshclient.go:73: no vlan 93
+loggersshclient.go:76: 2
+no vlan 93
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 9
+loggersshclient.go:73: no vlan 94
+loggersshclient.go:76: 3
+no vlan 94
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vla
+loggersshclient.go:73: no vlan 95
+loggersshclient.go:76: n 94
+no vlan 95
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 95
+loggersshclient.go:73: no vlan 96
+loggersshclient.go:76: no vlan 96
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 9
+loggersshclient.go:73: no vlan 97
+loggersshclient.go:76: 6
+no vlan 97
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 9
+loggersshclient.go:73: no vlan 98
+loggersshclient.go:76: 7
+no vlan 98
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ n
+loggersshclient.go:73: no vlan 99
+loggersshclient.go:76: o vlan 98
+no vlan 99
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 9
+loggersshclient.go:73: no vlan 100
+loggersshclient.go:76: 9
+no vlan 100
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 100
+loggersshclient.go:73: no vlan 101
+loggersshclient.go:76: no vlan 101
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no v
+loggersshclient.go:73: no vlan 102
+loggersshclient.go:76: lan 101
+no vlan 102
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 10
+loggersshclient.go:73: no vlan 103
+loggersshclient.go:76: 2
+no vlan 103
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vl
+loggersshclient.go:73: no vlan 104
+loggersshclient.go:76: an 103
+no vlan 104
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan
+loggersshclient.go:73: no vlan 105
+loggersshclient.go:76: 104
+no vlan 105
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 106
+loggersshclient.go:76: 05
+no vlan 106
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 107
+loggersshclient.go:76: 06
+no vlan 107
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 108
+loggersshclient.go:76: 07
+no vlan 108
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 109
+loggersshclient.go:76: 08
+no vlan 109
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 110
+loggersshclient.go:76: 09
+no vlan 110
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 110
+loggersshclient.go:73: no vlan 111
+loggersshclient.go:76: no vlan 111
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan
+loggersshclient.go:73: no vlan 112
+loggersshclient.go:76: 111
+no vlan 112
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vl
+loggersshclient.go:73: no vlan 113
+loggersshclient.go:76: an 112
+no vlan 113
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 114
+loggersshclient.go:76: 13
+no vlan 114
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 11
+loggersshclient.go:73: no vlan 115
+loggersshclient.go:76: 4
+no vlan 115
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 116
+loggersshclient.go:76: 15
+no vlan 116
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 116
+loggersshclient.go:73: no vlan 117
+loggersshclient.go:76: no vlan 117
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ n
+loggersshclient.go:73: no vlan 118
+loggersshclient.go:76: o vlan 117
+no vlan 118
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no
+loggersshclient.go:73: no vlan 119
+loggersshclient.go:76: vlan 118
+no vlan 119
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 11
+loggersshclient.go:73: no vlan 120
+loggersshclient.go:76: 9
+no vlan 120
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 121
+loggersshclient.go:76: 20
+no vlan 121
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 122
+loggersshclient.go:76: 21
+no vlan 122
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 12
+loggersshclient.go:73: no vlan 123
+loggersshclient.go:76: 2
+no vlan 123
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 124
+loggersshclient.go:76: 23
+no vlan 124
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 125
+loggersshclient.go:76: 24
+no vlan 125
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 125
+loggersshclient.go:73: no vlan 126
+loggersshclient.go:76: no vlan 126
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 127
+loggersshclient.go:76: 26
+no vlan 127
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 128
+loggersshclient.go:76: 27
+no vlan 128
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 129
+loggersshclient.go:76: 28
+no vlan 129
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 129
+loggersshclient.go:73: no vlan 130
+loggersshclient.go:76: no vlan 130
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 131
+loggersshclient.go:76: 30
+no vlan 131
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 131
+loggersshclient.go:73: no vlan 132
+loggersshclient.go:76: no vlan 132
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 133
+loggersshclient.go:76: 32
+no vlan 133
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 134
+loggersshclient.go:76: 33
+no vlan 134
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 135
+loggersshclient.go:76: 34
+no vlan 135
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 136
+loggersshclient.go:76: 35
+no vlan 136
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 13
+loggersshclient.go:73: no vlan 137
+loggersshclient.go:76: 6
+no vlan 137
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 138
+loggersshclient.go:76: 37
+no vlan 138
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 139
+loggersshclient.go:76: 38
+no vlan 139
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$
+loggersshclient.go:73: no vlan 140
+loggersshclient.go:76: no vlan 139
+no vlan 140
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 141
+loggersshclient.go:76: 40
+no vlan 141
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 141
+loggersshclient.go:73: no vlan 142
+loggersshclient.go:76: no vlan 142
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vl
+loggersshclient.go:73: no vlan 143
+loggersshclient.go:76: an 142
+no vlan 143
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vla
+loggersshclient.go:73: no vlan 144
+loggersshclient.go:76: n 143
+no vlan 144
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$
+loggersshclient.go:73: no vlan 145
+loggersshclient.go:76: no vlan 144
+no vlan 145
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no v
+loggersshclient.go:73: no vlan 146
+loggersshclient.go:76: lan 145
+no vlan 146
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 147
+loggersshclient.go:76: 46
+no vlan 147
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 147
+loggersshclient.go:73: no vlan 148
+loggersshclient.go:76: no vlan 148
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 149
+loggersshclient.go:76: 48
+no vlan 149
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 150
+loggersshclient.go:76: 49
+no vlan 150
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 150
+loggersshclient.go:73: no vlan 151
+loggersshclient.go:76: no vlan 151
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 152
+loggersshclient.go:76: 51
+no vlan 152
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 152
+loggersshclient.go:73: no vlan 153
+loggersshclient.go:76: no vlan 153
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 15
+loggersshclient.go:73: no vlan 154
+loggersshclient.go:76: 3
+no vlan 154
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan
+loggersshclient.go:73: no vlan 155
+loggersshclient.go:76: 154
+no vlan 155
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 155
+loggersshclient.go:73: no vlan 156
+loggersshclient.go:76: no vlan 156
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 157
+loggersshclient.go:76: 56
+no vlan 157
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 158
+loggersshclient.go:76: 57
+no vlan 158
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 159
+loggersshclient.go:76: 58
+no vlan 159
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 160
+loggersshclient.go:76: 59
+no vlan 160
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 161
+loggersshclient.go:76: 60
+no vlan 161
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 162
+loggersshclient.go:76: 61
+no vlan 162
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$
+loggersshclient.go:73: no vlan 163
+loggersshclient.go:76: no vlan 162
+no vlan 163
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 163
+loggersshclient.go:73: no vlan 164
+loggersshclient.go:76: no vlan 164
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 165
+loggersshclient.go:76: 64
+no vlan 165
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 166
+loggersshclient.go:76: 65
+no vlan 166
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 167
+loggersshclient.go:76: 66
+no vlan 167
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 168
+loggersshclient.go:76: 67
+no vlan 168
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 168
+loggersshclient.go:73: no vlan 169
+loggersshclient.go:76: no vlan 169
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 16
+loggersshclient.go:73: no vlan 170
+loggersshclient.go:76: 9
+no vlan 170
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 171
+loggersshclient.go:76: 70
+no vlan 171
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 172
+loggersshclient.go:76: 71
+no vlan 172
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no
+loggersshclient.go:73: no vlan 173
+loggersshclient.go:76: vlan 172
+no vlan 173
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 174
+loggersshclient.go:76: 73
+no vlan 174
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan
+loggersshclient.go:73: no vlan 175
+loggersshclient.go:76: 174
+no vlan 175
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 176
+loggersshclient.go:76: 75
+no vlan 176
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 177
+loggersshclient.go:76: 76
+no vlan 177
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 178
+loggersshclient.go:76: 77
+no vlan 178
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 178
+loggersshclient.go:73: no vlan 179
+loggersshclient.go:76: no vlan 179
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no
+loggersshclient.go:73: no vlan 180
+loggersshclient.go:76: vlan 179
+no vlan 180
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 180
+loggersshclient.go:73: no vlan 181
+loggersshclient.go:76: no vlan 181
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 182
+loggersshclient.go:76: 81
+no vlan 182
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vl
+loggersshclient.go:73: no vlan 183
+loggersshclient.go:76: an 182
+no vlan 183
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 184
+loggersshclient.go:76: 83
+no vlan 184
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 184
+loggersshclient.go:73: no vlan 185
+loggersshclient.go:76: no vlan 185
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 185
+loggersshclient.go:73: no vlan 186
+loggersshclient.go:76: no vlan 186
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 18
+loggersshclient.go:73: no vlan 187
+loggersshclient.go:76: 6
+no vlan 187
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan
+loggersshclient.go:73: no vlan 188
+loggersshclient.go:76: 187
+no vlan 188
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 189
+loggersshclient.go:76: 88
+no vlan 189
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 190
+loggersshclient.go:76: 89
+no vlan 190
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 190
+loggersshclient.go:73: no vlan 191
+loggersshclient.go:76: no vlan 191
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 19
+loggersshclient.go:73: no vlan 192
+loggersshclient.go:76: 1
+no vlan 192
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 193
+loggersshclient.go:76: 92
+no vlan 193
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 193
+loggersshclient.go:73: no vlan 194
+loggersshclient.go:76: no vlan 194
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no
+loggersshclient.go:73: no vlan 195
+loggersshclient.go:76: vlan 194
+no vlan 195
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 196
+loggersshclient.go:76: 95
+no vlan 196
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan 1
+loggersshclient.go:73: no vlan 197
+loggersshclient.go:76: 96
+no vlan 197
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no
+loggersshclient.go:73: no vlan 198
+loggersshclient.go:76: vlan 197
+no vlan 198
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vlan
+loggersshclient.go:73: no vlan 199
+loggersshclient.go:76: 198
+no vlan 199
+]0;admin@FlexSwitch: ~[01;32madmin@FlexSwitch[00m:[01;34m~[00m(config)$ no vl
+loggersshclient.go:73: no vlan 80
+loggersshclient.go:73: no vlan 81
+loggersshclient.go:73: no vlan 82
+loggersshclient.go:73: no vlan 83
+loggersshclient.go:73: no vlan 84
+loggersshclient.go:73: no vlan 85
+loggersshclient.go:73: no vlan 86
+loggersshclient.go:73: no vlan 87
+loggersshclient.go:73: no vlan 88
+loggersshclient.go:73: no vlan 89
+loggersshclient.go:73: no vlan 90
+loggersshclient.go:73: no vlan 91
+loggersshclient.go:73: no vlan 92
+loggersshclient.go:73: no vlan 93
+loggersshclient.go:73: no vlan 94
+loggersshclient.go:73: no vlan 95
+loggersshclient.go:73: no vlan 96
+loggersshclient.go:73: no vlan 97
+loggersshclient.go:73: no vlan 98
+loggersshclient.go:73: no vlan 99
+loggersshclient.go:73: no vlan 100
+loggersshclient.go:73: no vlan 101
+loggersshclient.go:73: no vlan 102
+loggersshclient.go:73: no vlan 103
+loggersshclient.go:73: no vlan 104
+loggersshclient.go:73: no vlan 105
+loggersshclient.go:73: no vlan 106
+loggersshclient.go:73: no vlan 107
+loggersshclient.go:73: no vlan 108
+loggersshclient.go:73: no vlan 109
+loggersshclient.go:73: no vlan 110
+loggersshclient.go:73: no vlan 111
+loggersshclient.go:73: no vlan 112
+loggersshclient.go:73: no vlan 113
+loggersshclient.go:73: no vlan 114
+loggersshclient.go:73: no vlan 115
+loggersshclient.go:73: no vlan 116
+loggersshclient.go:73: no vlan 117
+loggersshclient.go:73: no vlan 118
+loggersshclient.go:73: no vlan 119
+loggersshclient.go:73: no vlan 120
+loggersshclient.go:73: no vlan 121
+loggersshclient.go:73: no vlan 122
+loggersshclient.go:73: no vlan 123
+loggersshclient.go:73: no vlan 124
+loggersshclient.go:73: no vlan 125
+loggersshclient.go:73: no vlan 126
+loggersshclient.go:73: no vlan 127
+loggersshclient.go:73: no vlan 128
+loggersshclient.go:73: no vlan 129
+loggersshclient.go:73: no vlan 130
+loggersshclient.go:73: no vlan 131
+loggersshclient.go:73: no vlan 132
+loggersshclient.go:73: no vlan 133
+loggersshclient.go:73: no vlan 134
+loggersshclient.go:73: no vlan 135
+loggersshclient.go:73: no vlan 136
+loggersshclient.go:73: no vlan 137
+loggersshclient.go:73: no vlan 138
+loggersshclient.go:73: no vlan 139
+loggersshclient.go:73: no vlan 140
+loggersshclient.go:73: no vlan 141
+loggersshclient.go:73: no vlan 142
+loggersshclient.go:73: no vlan 143
+loggersshclient.go:73: no vlan 144
+loggersshclient.go:73: no vlan 145
+loggersshclient.go:73: no vlan 146
+loggersshclient.go:73: no vlan 147
+loggersshclient.go:73: no vlan 148
+loggersshclient.go:73: no vlan 149
+loggersshclient.go:73: no vlan 150
+loggersshclient.go:73: no vlan 151
+loggersshclient.go:73: no vlan 152
+loggersshclient.go:73: no vlan 153
+loggersshclient.go:73: no vlan 154
+loggersshclient.go:73: no vlan 155
+loggersshclient.go:73: no vlan 156
+loggersshclient.go:73: no vlan 157
+loggersshclient.go:73: no vlan 158
+loggersshclient.go:73: no vlan 159
+loggersshclient.go:73: no vlan 160
+loggersshclient.go:73: no vlan 161
+loggersshclient.go:73: no vlan 162
+loggersshclient.go:73: no vlan 163
+loggersshclient.go:73: no vlan 164
+loggersshclient.go:73: no vlan 165
+loggersshclient.go:73: no vlan 166
+loggersshclient.go:73: no vlan 167
+loggersshclient.go:73: no vlan 168
+loggersshclient.go:73: no vlan 169
+loggersshclient.go:73: no vlan 170
+loggersshclient.go:73: no vlan 171
+loggersshclient.go:73: no vlan 172
+loggersshclient.go:73: no vlan 173
+loggersshclient.go:73: no vlan 174
+loggersshclient.go:73: no vlan 175
+loggersshclient.go:73: no vlan 176
+loggersshclient.go:73: no vlan 177
+loggersshclient.go:73: no vlan 178
+loggersshclient.go:73: no vlan 179
+loggersshclient.go:73: no vlan 180
+loggersshclient.go:73: no vlan 181
+loggersshclient.go:73: no vlan 182
+loggersshclient.go:73: no vlan 183
+loggersshclient.go:73: no vlan 184
+loggersshclient.go:73: no vlan 185
+loggersshclient.go:73: no vlan 186
+loggersshclient.go:73: no vlan 187
+loggersshclient.go:73: no vlan 188
+loggersshclient.go:73: no vlan 189
+loggersshclient.go:73: no vlan 190
+loggersshclient.go:73: no vlan 191
+loggersshclient.go:73: no vlan 192
+loggersshclient.go:73: no vlan 193
+loggersshclient.go:73: no vlan 194
+loggersshclient.go:73: no vlan 195
+loggersshclient.go:73: no vlan 196
+loggersshclient.go:73: no vlan 197
+loggersshclient.go:73: no vlan 198
+loggersshclient.go:73: no vlan 199

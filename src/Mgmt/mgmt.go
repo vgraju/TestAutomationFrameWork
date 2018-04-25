@@ -12,7 +12,7 @@ func CreateManagementPipeLine(inputCh chan interface{}) (chan interface{}, error
 	leftCh, _ = CreateIngressInput(inputCh)
 	leftCh, _ = CreateUserMgmt(leftCh)
 	leftCh, _ = CreateRequestRateLimiter(leftCh)
-	leftCh, _ = CreateResoureManager(leftCh)
+	leftCh, _ = IngressAuditPipe(leftCh)
 	fmt.Println("Inside Create Management Pipeline")
 	return leftCh, nil
 }
@@ -65,23 +65,23 @@ func CreateRequestRateLimiter(inputCh chan interface{}) (chan interface{}, error
 	}()
 	return leftCh, nil
 }
-func CreateResoureManager(inputCh chan interface{}) (chan interface{}, error) {
+func IngressAuditPipe(inputCh chan interface{}) (chan interface{}, error) {
 	leftCh := make(chan interface{})
 	go func() {
-		fmt.Println("Go Routine : CreateResoureManager")
+		fmt.Println("Go Routine : IngressAuditPipe")
 		for val := range inputCh {
 			fmt.Println("data on CreateResourceManager")
 			// Business Logic Here
 			// Post the data onto left channel
-			ProcessResourceMgmt(val)
+			RecordIngressLogs(val)
 			leftCh <- val
 		}
 	}()
 	return leftCh, nil
 }
 
-func ProcessResourceMgmt(data interface{}) (interface{}, Commondefs.GORESP) {
-	fmt.Println("Processing Resource Management")
+func RecordIngressLogs(data interface{}) (interface{}, Commondefs.GORESP) {
+	fmt.Println("Processing Ingress Logs")
 	// Add Switch / Remove Switch
 	// Keep a Global Slice of Resources and Remove the required
 	// Number of resource from this slice and
@@ -97,8 +97,8 @@ func ProcessUserMgmt(data interface{}) (interface{}, Commondefs.GORESP) {
 		// Send the request to TMPL to get resource selection page
 		// and send back to user and not to the leftCh
 		// Send Template here
-		return &Commondefs.RequirementResponse{}, Commondefs.USER_RESP
-	case *Commondefs.RequirementResponse:
+		return &Commondefs.HttpUserResponse{}, Commondefs.USER_RESP
+	case *Commondefs.HttpUserResponse:
 		fmt.Println("Processing RequirementResponse Recevied")
 	default:
 		fmt.Println("Data not changed")
