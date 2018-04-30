@@ -21,11 +21,7 @@ type UserJob struct {
 	// example : L2 - True, L3-False,BasicSanity-True
 	TestCases map[string]struct{}
 }
-type Resource struct {
-	RsrcCount  int                 // Total Resources currently in the system
-	RscSlice   []string            // Slice of DUT's
-	RscPortMap map[string][]string // "AB":"fpPort1, fpPort2..We also store BA etc.."
-}
+
 type UserInfo struct {
 	UName string
 	UPwd  string

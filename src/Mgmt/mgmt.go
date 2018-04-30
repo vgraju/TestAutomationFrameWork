@@ -70,7 +70,7 @@ func IngressAuditPipe(inputCh chan interface{}) (chan interface{}, error) {
 	go func() {
 		fmt.Println("Go Routine : IngressAuditPipe")
 		for val := range inputCh {
-			fmt.Println("data on CreateResourceManager")
+			fmt.Println("data on Ingress Audit Pipe")
 			// Business Logic Here
 			// Post the data onto left channel
 			RecordIngressLogs(val)

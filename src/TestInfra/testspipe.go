@@ -1,4 +1,4 @@
-package Tests
+package TestInfra
 
 import (
 	"fmt"
